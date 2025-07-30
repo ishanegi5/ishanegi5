@@ -1,34 +1,46 @@
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-animated-banner.vercel.app/api?text=Isha%20Negi%20%7C%20Aspiring%20ML%20Engineer%20%7C%20Python%20%7C%20Data%20Science&font=Fira%20Code&size=28&color=white&center=true&width=1000&height=150&lines=Building+Smart+AI+Projects;Passionate+about+ML%2C+Data+Science+and+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=435&lines=Aspiring+ML+Engineer+%7C+B.Tech+CSE+%7C+Learning+by+Building" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://github.com/ishanegi5/ishanegi5/blob/main/assets/banner.gif" width="100%" alt="Banner"/>
+</div>
 
 ---
 
-### 👋 Hey there, I'm Isha Negi
+### 👋 Hi there, I'm Isha 👩‍💻
 
-🎓 B.Tech CSE | 2nd Year  
-💡 Aspiring **Machine Learning Engineer**  
-🛠️ Building **hands-on projects** in Python, NumPy, Pandas, Scikit-learn  
-📊 Focused on **Supervised ML**, **XGBoost**, and **Model Deployment**  
-📂 **Projects:** ML Models, Data Processing, Pattern Generation  
-🌱 Currently learning: Deployment, Model Tuning, and Real-world ML tools  
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/isha-negi/) | [GitHub](https://github.com/ishanegi5)
+🎓 B.Tech CSE (2nd Year) | Passionate about AI & Machine Learning  
+🚀 On a journey to become a **job-ready ML Engineer** by graduation  
+💡 Strong foundation in Python, NumPy, Pandas, Scikit-learn  
+🧠 Learning ML the practical way — by **building real-world projects**  
+🌱 Currently exploring: **XGBoost, Model Evaluation, Deployment**
 
 ---
 
-### 🔥 My GitHub Activity
+### 🔧 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-336699?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E88E5?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi5&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi5&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishanegi5&bg_color=000000&color=00ffcc&line=00ffff&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishanegi5&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -36,26 +48,28 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=darkhub&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
 
-### 🚀 Tools & Languages
+### 📌 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+- 🩺 [Heart Disease Prediction](https://github.com/ishanegi5/heart_disease_prediction)
+- 📱 [Mobile Price Classifier](https://github.com/ishanegi5/mobile_price_prediction)
+- 📉 [Telecom Churn Analysis](https://github.com/ishanegi5/telecom_churn_prediction_using_logistic_regression)
+- 🧠 [Tumor Detection](https://github.com/ishanegi5/tumor_detection)
 
 ---
 
-### 👁️ Visitor Counter
+### 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanegi5&style=flat-square&color=blue" alt="visitors"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanegi5/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanegi5)
+
+---
+
+### ⚡ AI Tagline Just for You
+
+> “Transforming code into solutions — one ML model at a time.”
+
