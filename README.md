@@ -1,37 +1,44 @@
-<h1 align="center">Hi 👋, I'm Isha Negi</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | B.Tech CSE (2nd Year)</h3>
-
-- 🔭 I’m currently working on **Supervised Machine Learning Projects**
-- 🌱 I’m learning **Naive Bayes, XGBoost, and end-to-end ML workflows**
-- 💻 I code in **Python** and use **NumPy, Pandas, Scikit-learn** for ML
-- 📊 I’m building projects that solve real-world problems
-- 📂 My ML Projects include:
-  - Heart Disease Prediction
-  - Mobile Price Classification
-  - Tumor Detection
-  - Telecom Churn Prediction
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Python, C/C++
-- **ML Libraries:** NumPy, Pandas, Scikit-learn
-- **Data Visualization:** Matplotlib, Seaborn
-- **Tools:** Jupyter, Google Colab, Git & GitHub
-
----
-
-### 📈 GitHub Stats
+<!-- GitHub Profile README for Isha Negi -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=github_dark&hide=prs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi5&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20there%20👋%20I'm%20Isha%20Negi&fontSize=35&fontColor=ffffff" />
+</p>
+
+### 💻 B.Tech CSE Student | Aspiring Machine Learning Engineer
+
+- 🎯 Currently learning **XGBoost**, **model deployment**, and real-world ML workflows
+- 🧠 Passionate about solving real problems with **Python**, **Pandas**, **Scikit-learn**, and **Matplotlib**
+- 📊 Completed projects in classification, regression, pattern generation & EDA
+- 🌱 Actively sharing my learning journey via **GitHub** and **LinkedIn**
+
+---
+
+### 🔧 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📂 Featured Projects
+- 🔍 [Telecom Churn Prediction (Logistic Regression)](https://github.com/ishanegi5/telecom_churn_prediction_using_logistic_regression)
+- 🧠 [Tumor Detection (Logistic Regression)](https://github.com/ishanegi5/tumor_prediction_using_logistic_regression)
+- 🏠 [House Price Prediction (Random Forest)](https://github.com/ishanegi5/house_price_prediction_random_forest)
+- ❤️ [Heart Disease Prediction (Random Forest)](https://github.com/ishanegi5/heart_disease_prediction_random_forest)
+- ✨ [Star Pattern Generator (Python)](https://github.com/ishanegi5/star-pattern-python)
 
-- LinkedIn: [linkedin.com/in/ishanegi5](https://linkedin.com/in/ishanegi5)
-- GitHub: [github.com/ishanegi5](https://github.com/ishanegi5)
+---
+
+### 📫 Connect With Me
+- 📍 **Location**: India
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishanegi5)
+- 🌐 [GitHub](https://github.com/ishanegi5)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishanegi5&label=Profile%20Views&color=0abde3&style=flat"/>
+</p>
