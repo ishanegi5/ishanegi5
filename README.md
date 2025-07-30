@@ -1,3 +1,7 @@
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=1000&height=45&lines=Aspiring+ML+Engineer;B.Tech+CSE+(2nd+Year);Learning+by+Building+Projects;Python+%7C+Scikit-learn+%7C+Pandas+%7C+NumPy" alt="Typing SVG" />
+</p>
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=435&lines=Aspiring+ML+Engineer+%7C+B.Tech+CSE+%7C+Learning+by+Building" alt="Typing SVG" />
