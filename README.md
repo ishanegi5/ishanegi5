@@ -1,44 +1,61 @@
-<!-- GitHub Profile README for Isha Negi -->
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20there%20👋%20I'm%20Isha%20Negi&fontSize=35&fontColor=ffffff" />
-</p>
-
-### 💻 B.Tech CSE Student | Aspiring Machine Learning Engineer
-
-- 🎯 Currently learning **XGBoost**, **model deployment**, and real-world ML workflows
-- 🧠 Passionate about solving real problems with **Python**, **Pandas**, **Scikit-learn**, and **Matplotlib**
-- 📊 Completed projects in classification, regression, pattern generation & EDA
-- 🌱 Actively sharing my learning journey via **GitHub** and **LinkedIn**
-
----
-
-### 🔧 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
+  <img src="https://readme-animated-banner.vercel.app/api?text=Isha%20Negi%20%7C%20Aspiring%20ML%20Engineer%20%7C%20Python%20%7C%20Data%20Science&font=Fira%20Code&size=28&color=white&center=true&width=1000&height=150&lines=Building+Smart+AI+Projects;Passionate+about+ML%2C+Data+Science+and+AI" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-- 🔍 [Telecom Churn Prediction (Logistic Regression)](https://github.com/ishanegi5/telecom_churn_prediction_using_logistic_regression)
-- 🧠 [Tumor Detection (Logistic Regression)](https://github.com/ishanegi5/tumor_prediction_using_logistic_regression)
-- 🏠 [House Price Prediction (Random Forest)](https://github.com/ishanegi5/house_price_prediction_random_forest)
-- ❤️ [Heart Disease Prediction (Random Forest)](https://github.com/ishanegi5/heart_disease_prediction_random_forest)
-- ✨ [Star Pattern Generator (Python)](https://github.com/ishanegi5/star-pattern-python)
+### 👋 Hey there, I'm Isha Negi
+
+🎓 B.Tech CSE | 2nd Year  
+💡 Aspiring **Machine Learning Engineer**  
+🛠️ Building **hands-on projects** in Python, NumPy, Pandas, Scikit-learn  
+📊 Focused on **Supervised ML**, **XGBoost**, and **Model Deployment**  
+📂 **Projects:** ML Models, Data Processing, Pattern Generation  
+🌱 Currently learning: Deployment, Model Tuning, and Real-world ML tools  
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/isha-negi/) | [GitHub](https://github.com/ishanegi5)
 
 ---
 
-### 📫 Connect With Me
-- 📍 **Location**: India
-- 💼 [LinkedIn](https://www.linkedin.com/in/ishanegi5)
-- 🌐 [GitHub](https://github.com/ishanegi5)
+### 🔥 My GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanegi5&label=Profile%20Views&color=0abde3&style=flat"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi5&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishanegi5&bg_color=000000&color=00ffcc&line=00ffff&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+### 🚀 Tools & Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishanegi5&style=flat-square&color=blue" alt="visitors"/>
 </p>
