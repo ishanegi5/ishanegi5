@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Iesha Negi Banner" width="100%">
+</p>
+
 <!-- ========================= PROFILE BANNER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Iesha Negi</h1>
