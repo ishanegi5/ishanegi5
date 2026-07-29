@@ -134,3 +134,119 @@ Aspiring Machine Learning Engineer | Python Developer | AI Educator
 ✔ Binary Classification
 
 ---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanegi5&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Deep Learning
+- 🚀 Model Deployment
+- 🐳 Docker
+- ⚡ FastAPI
+- ☁️ Cloud Basics (AWS)
+- 📊 XGBoost
+- 🧠 Neural Networks
+- 🔥 MLOps Fundamentals
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become Job Ready in Machine Learning
+
+✅ Build 15+ End-to-End ML Projects
+
+✅ Learn Deep Learning
+
+✅ Learn MLOps
+
+✅ Contribute to Open Source
+
+✅ Crack an ML Internship
+
+---
+
+# 📚 Featured Repositories
+
+| Project | Description |
+|----------|-------------|
+| ❤️ Heart Disease Prediction | Random Forest model with feature importance |
+| 📱 Mobile Price Prediction | Classification model using Scikit-Learn |
+| 📉 Telecom Customer Churn | Logistic Regression with recall optimization |
+| 🧠 Tumor Detection | Benign vs Malignant classification |
+
+---
+
+# 📺 YouTube
+
+🎥 **Learn AI with Isha**
+
+I regularly upload tutorials on:
+
+- Python
+- Machine Learning
+- AI
+- Mathematics for ML
+- Interview Preparation
+
+⭐ **Subscribe:** https://www.youtube.com/@LearnAIwithIsha
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ishanegi5">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ishanegi5">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.youtube.com/@LearnAIwithIsha">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"Success comes from consistency, not perfection."**
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</p>
+
+<p align="center">
+
+Thanks for visiting my profile! 😊
+
+</p>
+
+
