@@ -30,7 +30,7 @@ Aspiring Machine Learning Engineer | Python Developer | AI Educator
 - 📊 Skilled in NumPy, Pandas, Matplotlib, Seaborn
 - 🧠 Machine Learning using Scikit-Learn
 - 📈 Love solving real-world ML problems
-- 🎥 Creator of **Learn AI with Isha**
+- 🎥 Creator of **Learn AI with Iesha**
 - 🌱 Currently learning **XGBoost, Deployment, Docker & MLOps**
 
 ---
@@ -77,19 +77,21 @@ Aspiring Machine Learning Engineer | Python Developer | AI Educator
 
 # 📊 GitHub Stats
 
+
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanegi5&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=github_dark&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ishanegi5&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanegi5&layout=compact&theme=github_dark&cache_seconds=1800"/>
 
 </p>
+
+
 
 ---
 
@@ -143,7 +145,7 @@ Aspiring Machine Learning Engineer | Python Developer | AI Educator
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
