@@ -1,6 +1,6 @@
 <!-- ========================= PROFILE BANNER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Isha Negi</h1>
+<h1 align="center">Hi 👋, I'm Iesha Negi</h1>
 
 <h3 align="center">
 Aspiring Machine Learning Engineer | Python Developer | AI Educator
@@ -207,7 +207,7 @@ I regularly upload tutorials on:
 - Mathematics for ML
 - Interview Preparation
 
-⭐ **Subscribe:** https://www.youtube.com/@LearnAIwithIsha
+⭐ **Subscribe:** https://www.youtube.com/@LearnAIwithIesha
 
 ---
 
