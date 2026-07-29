@@ -1,75 +1,136 @@
-<!-- Typing SVG Header -->
+<!-- ========================= PROFILE BANNER ========================= -->
+
+<h1 align="center">Hi 👋, I'm Isha Negi</h1>
+
+<h3 align="center">
+Aspiring Machine Learning Engineer | Python Developer | AI Educator
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=1000&height=45&lines=Aspiring+ML+Engineer;B.Tech+CSE+(3rd+Year);Learning+by+Building+Projects;Python+%7C+Scikit-learn+%7C+Pandas+%7C+NumPy" alt="Typing SVG" />
+
+🎓 B.Tech Computer Science & Engineering (3rd Year)
+
+📍 Dehradun, Uttarakhand, India
+
+🚀 Passionate about Artificial Intelligence, Machine Learning & Data Science
+
 </p>
 
-<div align="center">
-  <img src="https://github.com/ishanegi5/ishanegi5/blob/main/assets/banner.gif" width="100%" alt="Banner"/>
-</div>
+---
+
+# 👩‍💻 About Me
+
+- 🎓 B.Tech CSE (3rd Year)
+- 🤖 Aspiring Machine Learning Engineer
+- 🐍 Strong in Python
+- 📊 Skilled in NumPy, Pandas, Matplotlib, Seaborn
+- 🧠 Machine Learning using Scikit-Learn
+- 📈 Love solving real-world ML problems
+- 🎥 Creator of **Learn AI with Isha**
+- 🌱 Currently learning **XGBoost, Deployment, Docker & MLOps**
 
 ---
 
-### 👋 Hi there, I'm Isha 👩‍💻
+# 🚀 Tech Stack
 
-🎓 B.Tech CSE (2nd Year) | Passionate about AI & Machine Learning  
-🚀 On a journey to become a **job-ready ML Engineer** by graduation  
-💡 Strong foundation in Python, NumPy, Pandas, Scikit-learn  
-🧠 Learning ML the practical way — by **building real-world projects**  
-🌱 Currently exploring: **XGBoost, Model Evaluation, Deployment**
-
----
-
-### 🔧 Tech Stack & Tools
+### Programming Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+### Data Analysis
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-336699?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1E88E5?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4E89AE?style=for-the-badge)
 
 ---
 
-### 📈 GitHub Stats
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=for-the-badge&logo=googlecolab)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi5&theme=github-dark&hide_border=true" height="160"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishanegi5&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanegi5&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishanegi5&theme=github-compact&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=ishanegi5&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 🏆 Featured Machine Learning Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishanegi5&theme=darkhub&no-frame=true&row=1&margin-w=15" />
-</p>
+## ❤️ Heart Disease Prediction
 
----
+✔ Random Forest Classifier
 
-### 📌 Featured Projects
+✔ Accuracy: **93%**
 
-- 🩺 [Heart Disease Prediction](https://github.com/ishanegi5/heart_disease_prediction)
-- 📱 [Mobile Price Classifier](https://github.com/ishanegi5/mobile_price_prediction)
-- 📉 [Telecom Churn Analysis](https://github.com/ishanegi5/telecom_churn_prediction_using_logistic_regression)
-- 🧠 [Tumor Detection](https://github.com/ishanegi5/tumor_detection)
+✔ Feature Importance
+
+✔ Data Preprocessing
 
 ---
 
-### 🌐 Connect with Me
+## 📱 Mobile Price Prediction
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanegi5/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanegi5)
+✔ Random Forest
+
+✔ Classification
+
+✔ Feature Engineering
 
 ---
 
-### ⚡ AI Tagline Just for You
+## 📉 Telecom Customer Churn Prediction
 
-> “Transforming code into solutions — one ML model at a time.”
+✔ Logistic Regression
 
+✔ Recall: **60%**
+
+✔ Precision-Recall Analysis
+
+✔ Confusion Matrix
+
+---
+
+## 🧠 Tumor Detection
+
+✔ Logistic Regression
+
+✔ Accuracy: **98%**
+
+✔ Binary Classification
+
+---
