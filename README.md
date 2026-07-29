@@ -201,7 +201,7 @@ Aspiring Machine Learning Engineer | Python Developer | AI Educator
 
 # 📺 YouTube
 
-🎥 **Learn AI with Isha**
+🎥 **Learn AI with Iesha**
 
 I regularly upload tutorials on:
 
