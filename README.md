@@ -225,7 +225,7 @@ I regularly upload tutorials on:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.youtube.com/@LearnAIwithIsha">
+<a href="https://www.youtube.com/@LearnAIwithIesha">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
